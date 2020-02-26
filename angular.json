@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angu-tour": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angu-tour"
+    }
+  },
+  "defaultProject": "angu-tour",
+  "cli": {
+    "analytics": "c1b3b7ba-c0dd-4389-b9ab-36198c9e3c1f"
+  }
 }
